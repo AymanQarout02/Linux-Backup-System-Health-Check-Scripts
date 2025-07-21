@@ -10,5 +10,5 @@ Automated Bash scripts for Linux to manage system backups and health checks. Fea
 Clone the repository:
 
 ```bash
-git clone https://github.com/YourUsername/linux-backup-health-check.git
+https://github.com/AymanQarout02/Linux-Backup-System-Health-Check-Scripts.git
 cd linux-backup-health-check
