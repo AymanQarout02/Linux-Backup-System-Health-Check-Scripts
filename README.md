@@ -42,9 +42,6 @@ Example: Schedule a daily backup at 5 AM using Cron:
 ✅ System Health Check Script (health_check.sh)
 Run the health check script:
 
-bash
-Copy
-Edit
 ./health_check.sh
 The script will:
 
